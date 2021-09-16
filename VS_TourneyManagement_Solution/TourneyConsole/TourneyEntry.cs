@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TourneyConsole
 {
-    abstract class TourneyEntry
+    abstract public class TourneyEntry
     {
 
     }
